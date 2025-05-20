@@ -1,7 +1,6 @@
 # This is repo is built for testing purpose.
 
 **Reasons** :-
-
 - 1. I am building this for Gitbook testing.
 - 2. To help Stahlpower to understand gitBook.
 - 3. To improve some Discord projects we are currently doing.
@@ -15,14 +14,15 @@
                         /    \
                     Termux   Files
                            ↓
+   |-------------|         ↓           |-------------|
+   |             |                     |             |
+   |  **Termux** | → → → **GIT** → → → | **Gitbook** |
+   |             |                     |             |
+   |-------------|                     |-------------|
 
-|-------------| ↓ |-------------|
-| | | |
-| **Termux** | → → → **GIT** → → → | **Gitbook** |
-| | | |
-|-------------| |-------------|
+    
+ - Need to fix my editor because of poor indenting.
 
-- Need to fix my editor because of poor indenting.
 
-> [!HINT]
-> Now lets test the product.
+ > [!TIP] 
+ > Now lets test the product.
