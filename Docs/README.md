@@ -22,3 +22,6 @@
       │  Termux CLI │ ──────→  GIT  ─────→ │  GitBook.io │
       │             │                     │             │
       └─────────────┘                     └─────────────┘
+
+> [!TIP]
+> NOW TEST THIS THING.
