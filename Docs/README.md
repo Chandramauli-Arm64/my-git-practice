@@ -1,28 +1,24 @@
-# This is repo is built for testing purpose.
+# This repository is built for testing purposes.
 
-**Reasons** :-
-- 1. I am building this for Gitbook testing.
-- 2. To help Stahlpower to understand gitBook.
-- 3. To improve some Discord projects we are currently doing.
-- 4. It will also help me to increase my knowleadge base.
+**Reasons**:
+1. I am building this for GitBook testing.
+2. To help Stahlpower understand GitBook.
+3. To improve some Discord projects we are currently working on.
+4. It will also help me increase my knowledge base.
 
-## Some interesting take for Gtbook
+---
 
+## Some Interesting Take on GitBook
+
+```text
                         DISCORD
-                          /\
-                         /  \
-                        /    \
-                    Termux   Files
-                           ↓
-   |-------------|         ↓           |-------------|
-   |             |                     |             |
-   |  **Termux** | → → → **GIT** → → → | **Gitbook** |
-   |             |                     |             |
-   |-------------|                     |-------------|
-
-    
- - Need to fix my editor because of poor indenting.
-
-
- > [!TIP] 
- > Now lets test the product.
+                           │
+                           │
+                           ▼
+                       Termux   Files
+                         │        ↓
+      ┌─────────────┐    │        ↓       ┌─────────────┐
+      │             │────┘                │             │
+      │  Termux CLI │ ──────→  GIT  ─────→ │  GitBook.io │
+      │             │                     │             │
+      └─────────────┘                     └─────────────┘
